@@ -48,7 +48,7 @@ module Yajl
         :yajl_end_array, :yajl_end_array_func
     end
     
-    def self.parse(io, options)
+    def self.parse(io)
       # setup a new parser
       parser = self.new
       
