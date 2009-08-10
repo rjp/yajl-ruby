@@ -1,5 +1,7 @@
 Makefile
+benchmark/subjects/contacts.*
 *.o
 *.dylib
 *.bundle
-*.json
+TODO.txt
+tmp/*
